@@ -111,17 +111,22 @@ body {
     transform: scale(1.2) translateY(-5px);
 }
 .phone-number{
+    width: auto;
     margin: 5px;
     display: flex;
     position: absolute;
     left: 10px;
     top: 10px;
 }
-.phone-number img{
+.phone-number p{
+    
     width: 15px;
     height: 15px;
 }
 .number{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
     margin-left: 5px;
     color: #703a8a;
 }
