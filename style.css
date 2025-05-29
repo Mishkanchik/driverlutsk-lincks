@@ -55,9 +55,9 @@ body {
 }
 
 .button-29:hover {
-    background: #4b2bee;
+    background: #7a5ef7;
     color: #ffffffcc;
-    border-color: #4b2bee;
+    border-color: #7a5ef7;
 }
 
 .content {
@@ -128,6 +128,10 @@ body {
 }
 .location{
     text-align: left;
+    display: flex;
+}
+.phone{
+    display: flex;
 }
 
 .social-networks-description{
@@ -142,6 +146,7 @@ body {
     text-align: center;
     
     height: 60px;
+ 
     overflow: hidden;
     transition: all 0.4s ease;
     cursor: pointer;
@@ -152,9 +157,9 @@ body {
 
   .feedback-box:hover {
     height: 125px;
-    background: #4b2bee;    
+    background: #7a5ef7;
     color: #ffffffcc;
-    border-color: #4b2bee;
+    border-color: #7a5ef7;
   }
 
   .feedback-title {
@@ -163,10 +168,14 @@ body {
     margin-bottom: 10px;
   }
 
+  .a-w{
+ 
+    text-decoration: none;
+  }
   .feedback-buttons {
     margin: auto;
     opacity: 0;
-    transform: translateY(10px);
+    transform: translateY(10px); 
     transition: opacity 0.4s ease, transform 0.4s ease;
     
   }
@@ -251,6 +260,7 @@ body {
     .phone-and-location-li{
         font-size: 12px;
     }
+  
     
     .feedback-buttons button {
         height: 50px;
