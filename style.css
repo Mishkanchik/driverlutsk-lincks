@@ -13,6 +13,7 @@ body {
     font-family: Arial, sans-serif;
 }
 .phone-and-location-li{
+    font-family: "Inter", sans-serif;
     text-decoration: none;
     list-style: none;
 }
@@ -47,6 +48,7 @@ body {
     overflow: hidden;
     padding: 16px 32px;
     border: 1px solid #2C2C2CCC;
+    font-family: "Inter", sans-serif;
     border-radius: 10px;
     background: #9d8cec;
     transition: background 0.3s linear, transform 0.2s linear, color 0.2s linear;
@@ -89,7 +91,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
-    margin: 0px 20px 40px 20px;
+    margin: 0px 20px 20px 20px;
 }
 
 .button_transition {
@@ -167,8 +169,10 @@ body {
 
   .feedback-title {
     font-size: 18px;
-    font-weight: bold;
+    
     margin-bottom: 10px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
   }
 
   .a-w{
