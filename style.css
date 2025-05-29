@@ -111,6 +111,7 @@ body {
     transform: scale(1.2) translateY(-5px);
 }
 .phone-number{
+    margin: 5px;
     display: flex;
     position: absolute;
     left: 10px;
@@ -121,6 +122,7 @@ body {
     height: 15px;
 }
 .number{
+    margin-left: 5px;
     color: #703a8a;
 }
 
