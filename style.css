@@ -248,6 +248,9 @@ body {
         padding: 13px 30px;
         height: 40px;
     }
+    .phone-and-location-li{
+        font-size: 12px;
+    }
     
     .feedback-buttons button {
         height: 50px;
