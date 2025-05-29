@@ -79,6 +79,9 @@ body {
     font-family: "Oswald", sans-serif;
     font-weight: bold;
 }
+.logo img{
+    width: 300px;
+}
 
 .social-networks {
     max-width: 550px;
@@ -211,7 +214,7 @@ body {
     .description {
         margin-bottom: 24px; 
         font-size: 16px;
-        margin-top: 40px;
+        margin-top: 10px;
       
         
        
@@ -250,7 +253,7 @@ body {
     }
 
     .logo img {
-        width: 220px;
+        width: 250px;
     }
 
     .feedback-box {
