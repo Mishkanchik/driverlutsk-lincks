@@ -37,7 +37,7 @@ body {
 
 .button-29 {
     align-items: center;
-    color: #2C2C2CCC;
+    color: #0c0c0cf3;
     cursor: pointer;
     display: inline-flex;
     width: 100%;
@@ -57,9 +57,9 @@ body {
 }
 
 .button-29:hover {
-    background: #7a5ef7;
+    background: #ba94ff;
     color: #ffffffcc;
-    border-color: #7a5ef7;
+    border-color: #ba94ff;
 }
 
 .content {
@@ -144,7 +144,7 @@ body {
 }
 .feedback-box {
     background: #9d8cec;
-    color: #443C68;
+    color: #0c0c0cf3;
     padding: 20px 30px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
@@ -162,9 +162,9 @@ body {
 
   .feedback-box:hover {
     height: 125px;
-    background: #7a5ef7;
+    background: #ba94ff;
     color: #ffffffcc;
-    border-color: #7a5ef7;
+    border-color: #ba94ff;
   }
 
   .feedback-title {
