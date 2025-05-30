@@ -37,7 +37,7 @@ body {
 
 .button-29 {
     align-items: center;
-    color: #0c0c0cf3;
+    color: #ffffffcc;
     cursor: pointer;
     display: inline-flex;
     width: 100%;
@@ -58,7 +58,8 @@ body {
 
 .button-29:hover {
     background: #ba94ff;
-    color: #ffffffcc;
+    
+    color: #0c0c0cf3;
     border-color: #ba94ff;
 }
 
