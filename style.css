@@ -145,7 +145,7 @@ body {
 }
 .feedback-box {
     background: #9d8cec;
-    color: #0c0c0cf3;
+    color: #ffffffcc;
     padding: 20px 30px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
@@ -164,7 +164,8 @@ body {
   .feedback-box:hover {
     height: 125px;
     background: #ba94ff;
-    color: #ffffffcc;
+    
+    color: #0c0c0cf3;
     border-color: #ba94ff;
   }
 
